@@ -1,0 +1,159 @@
+            /* Start css */
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+   
+}
+                 /* Start Nav css */
+.logo{
+    width: 170px;
+    height: 60px;
+    margin-left: 10px;
+}
+.sign-in-button{
+    background-color: #21B573;
+    padding: 0px 20px;
+    border-radius: 33px;
+    color: white;
+}
+.sign-in-button a{
+    color: white !important;
+}
+             /* Start Header section css */
+header{
+    background-color: #F0FFF0;   
+}
+.navbar-brand img{
+    width: 200px
+}
+.illustration{
+    max-width: 100%;
+}
+
+.wrapper{
+    padding: 10px;
+    padding-top: 30px;
+   
+}
+.red{
+    color: #FD511A;
+    margin-top: 40px;
+    margin-bottom: 0;
+   
+    
+}
+h1{
+    margin: 35px 0;
+    font-size: 50px;
+    color: black;
+    font-weight: 700;
+}
+.gre-box{
+    color: #21B573;
+}
+p{
+    color:#6C6B6B;
+}
+
+.buy-now-button{
+    text-decoration: none;
+    background-color: #21B573;
+    color: #ffffff;
+    border: none;
+    border-radius: 33px;
+    padding: 5px 20px;
+    margin: 20px 0;
+}
+
+                     /* start course section css */
+                     
+.icon{
+    width: 65px;
+    height: 100px;
+    padding-top: 30px;
+}
+.box{
+    background-color: #F8FFFB;
+    width: 270px;
+    height: 270px;
+    border-radius: 10px;
+}
+.activ{
+    background-color: white;
+    box-shadow: 5px 5px 30px lightgrey;
+}
+.box:hover{
+    border: none;
+    box-shadow: 5px 5px 30px lightgrey;
+    background-color: white;
+}
+h3{
+    color: #413960;
+    font-weight: 600;
+}
+h2{
+    text-align: center;
+    margin-bottom: 80px;
+    font-weight: 700;
+}
+.card-img-top{
+    padding: 20px;
+}
+.icons-course{
+    width: 20px;
+}
+.start-p{
+    
+    margin: 10px 5px;
+    font-size: 15px;
+}
+.course{
+    margin-left: 80px;
+}
+.card:hover{
+    border: none;
+    box-shadow: 5px 5px 30px lightgrey;
+    background-color: white;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+}
+.testimonial img{
+    width: 130px;
+}
+.wrap{
+    width: 550px;
+    margin-left: 50px;
+}
+.d-flex{
+    margin-bottom: 20px;
+}
+
+                         /* start footer section css */
+
+footer{
+    background-color: #282531;
+    position: relative;
+   
+}
+
+.footer-section ul li{
+    list-style: none;
+    color: white;
+    
+}
+.courses-li{
+    
+    font-size: 18px;
+    font-weight: 600;
+}
+footer li{
+    font-size: 17px;margin: 0;
+}
+.footer-p{
+    color: white;
+    padding-right: 0;
+}
+                 /* End css */
