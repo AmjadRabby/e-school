@@ -1,1 +1,1 @@
-# e-school
+# hot-gadgets
