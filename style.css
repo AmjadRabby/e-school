@@ -1,4 +1,28 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  width: 250px;
+}
+.c {
+  /* margin-bottom: 500px; */
+}
+.course-info:hover {
+  background-color: white !important;
+  box-shadow: 5px 5px 10px lightgrey;
+  border-radius: 20px !important;
+}
+.card-icon {
+  width: 30px;
+}
+.testimonial-logo {
+  width: 100%;
+}
+footer li {
+  margin-bottom: 7px;
+}
+footer ul {
+  margin-top: 30px;
 }
